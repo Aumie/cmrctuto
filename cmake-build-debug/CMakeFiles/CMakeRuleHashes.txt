@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-3abbb93df4a8e88c58f5117c558d313f __cmrc_simple/intermediate/hello.txt.cpp
-77c0e4781e6566ab169b1e4fc882e473 __cmrc_simple/lib.cpp
