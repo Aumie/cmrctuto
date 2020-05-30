@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aum_l_000/Desktop/cmrctuto/cmake-build-debug/__cmrc_simple/intermediate/hello.txt.cpp
+
+C:/Users/Aum_l_000/Desktop/cmrctuto/cmake-build-debug/__cmrc_simple/lib.cpp
+cmrc/cmrc.hpp
+-
+map
+-
+utility
+-
+
+_cmrc/include/cmrc/cmrc.hpp
+cassert
+-
+functional
+-
+iterator
+-
+list
+-
+map
+-
+mutex
+-
+string
+-
+system_error
+-
+type_traits
+-
+

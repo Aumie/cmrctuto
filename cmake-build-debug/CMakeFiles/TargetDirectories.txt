@@ -1,0 +1,4 @@
+C:/Users/Aum_l_000/Desktop/cmrctuto/cmake-build-debug/CMakeFiles/cmrctuto.dir
+C:/Users/Aum_l_000/Desktop/cmrctuto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aum_l_000/Desktop/cmrctuto/cmake-build-debug/CMakeFiles/simple.dir
+C:/Users/Aum_l_000/Desktop/cmrctuto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
